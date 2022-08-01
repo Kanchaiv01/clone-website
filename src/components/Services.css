@@ -1,0 +1,129 @@
+#services{
+    background-image: url(https://metaversexr.global/_next/static/media/bg.c6525980.png);
+    background-color: transparent;
+    height: 762px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    bottom: 16vh;
+    margin-bottom: -16vh;
+}
+
+.container-serv{
+    width: 100%;
+    height: 100%;
+}
+
+.container-con-serv{
+    width: 100%;
+    position: relative;
+    top: 175px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-con-serv .logo-serv{
+    width: 365px;
+    height: 100px;
+    margin: 0px;
+}
+
+.container-con-serv h2{
+    font-size: 24px;
+    color: white;
+    font-family: Prompt, sans-serif;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.vrar360{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    padding: 0 15rem;
+    padding-top: 2rem;
+}
+
+.vr,.ar,.threesixzero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.vr,.ar,.threesixzero, h2{
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    font-family: Prompt, sans-serif;
+    font-weight: 600;
+    line-height: 28px;
+    margin-bottom: 3rem;
+}
+
+/* section des */
+.des{
+    background: linear-gradient(360deg, rgb(3, 0, 41) 0%, rgb(1, 1, 1) 100%);
+    padding: 0 3rem;
+}
+.container-des{
+    width: 100%;
+    height: 100%;
+}
+
+.container-con-des{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5 0rem;
+}
+
+.box-l{
+    flex-basis: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.box-l h1{
+    text-shadow: rgb(67 230 252 / 70%) 1px 1px 18.2712px;
+    font-family: Prompt, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 133%;
+}
+
+.box-l p{
+    font-family: Prompt, sans-serif;
+}
+
+.box-l div .btn{
+    margin-top: 1rem;
+    width: 179px;
+    height: 46px;
+}
+
+.box-r{
+    flex-basis: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px){
+
+    .container-con-des{
+        flex-direction: column-reverse;
+    }
+    .box-l{
+        flex-basis: 70%;
+        padding-bottom: 5rem;
+    }
+
+    .box-r{
+        flex-basis: 30%;
+    }
+
+}

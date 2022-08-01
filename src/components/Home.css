@@ -1,0 +1,50 @@
+#home{
+    padding: 100px 0px;
+    height: 100vh;
+    background-image: url(https://metaversexr.global/_next/static/media/citybanner.46ee6ded.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+    top: 0px;
+}
+
+.container-home{
+    height: 100%;
+}
+
+.container-con-home{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.container-con-home h1{
+    font-family: Mitr, sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 120%;
+}
+
+.container-con-home .btn{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 94%;
+    width: 148px;
+    height: 53px;
+    background: linear-gradient(270deg, rgb(141, 13, 188) -1.69%, rgb(22, 1, 81) 61.49%);
+    border: none;
+    text-shadow: none;
+    box-shadow: none;
+    color: white;
+}
+
+@media screen and (max-width: 768px){
+.container-con-home h1 {
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 120%;
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03dc9bdb.css",
+    "main.js": "/static/js/main.a045f186.js",
+    "static/media/5 TIGERS CHINESE NEW YEAR.aaff28f3.png": "/static/media/5 TIGERS CHINESE NEW YEAR.aaff28f3.b9388ebe5e05f73a2e1d.png",
+    "static/media/THE MALL GROUP.54811c36.png": "/static/media/THE MALL GROUP.54811c36.b0f651ba374892624b4d.png",
+    "static/media/OPEN HOUSE IN METAVERSE.9da820c4.png": "/static/media/OPEN HOUSE IN METAVERSE.9da820c4.5d3a09c75cdd55206e31.png",
+    "static/media/VIRTUAL TELEMEDICAL.2505951d.png": "/static/media/VIRTUAL TELEMEDICAL.2505951d.e677edf548d59138b2b0.png",
+    "static/media/World First jurasic Vr tour.44582121.png": "/static/media/World First jurasic Vr tour.44582121.2cf67986b3de2abbfc33.png",
+    "static/media/TOWNHALL X METAVERSE.8ca0bed3.png": "/static/media/TOWNHALL X METAVERSE.8ca0bed3.7f5c4b4604cae9c742ad.png",
+    "index.html": "/index.html",
+    "main.03dc9bdb.css.map": "/static/css/main.03dc9bdb.css.map",
+    "main.a045f186.js.map": "/static/js/main.a045f186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03dc9bdb.css",
+    "static/js/main.a045f186.js"
+  ]
+}
